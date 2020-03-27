@@ -1,0 +1,8 @@
+{
+	"mysqlhost":"127.0.0.1",
+	"mysqlport":"6446",
+	"mysqluser":"paycenterprod",
+	"mysqlpass":"z(1[t*r#4MdHVqU4",
+	"mysqldb":"paycenter",
+	"mysqlcharset":"utf8"
+}
